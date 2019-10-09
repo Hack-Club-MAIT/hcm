@@ -1,3 +1,3 @@
 # MAIT Hack Club
 
-The site for MAIT Hack Club.
+The site is for MAIT Hack Club.
