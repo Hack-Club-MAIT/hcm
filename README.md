@@ -1,3 +1,3 @@
-# Westbrough High School Hack Club
+# MAIT Hack Club
 
-The site for Westborough High School's Hack Club.
+The site for MAIT Hack Club.
